@@ -1,5 +1,3 @@
-# uftp
-Clone of https://uftp-multicast.sourceforge.net/
 --== UFTP - Encrypted UDP based FTP with multicast ==--
 
 UFTP is an encrypted multicast file transfer program, designed to securely,
