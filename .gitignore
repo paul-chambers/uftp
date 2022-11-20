@@ -1,3 +1,9 @@
+# artifacts
+uftp
+uftp_keymgt
+uftpd
+uftpproxyd
+
 # Prerequisites
 *.d
 
